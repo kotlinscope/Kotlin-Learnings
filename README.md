@@ -1,1 +1,1 @@
-# Kotlin-Learnings
+# This project teaches you kotlin and android development
